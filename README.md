@@ -1,5 +1,5 @@
 
-# Librarys Used:
+# Libraries Used:
 1. JsZip
 2. FileSaver
 3. Bootstrap
